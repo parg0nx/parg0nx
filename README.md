@@ -4,7 +4,7 @@
 
 ### Data Scientist · Analyst · Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/lovedeepsingh3196)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parg0nx@gmail.com)
 
 ---
@@ -27,10 +27,10 @@ I hold a B.S. in **Applied Mathematics & Statistics + Economics** from Stony Bro
 
 ```python
 lovedeep = {
-    "role"       : "Associate Data Scientist",
+    "role"       : "Data Scientist",
     "company"    : "Estée Lauder Companies",
     "focus"      : ["Risk Modeling", "Market Research", "Data Integration", "ETL Pipelines"],
-    "languages"  : ["Python", "SQL", "R"],
+    "languages"  : ["Python", "SQL"],
     "tools"      : ["Pandas", "NumPy", "JupyterLab", "Salesforce", "Google Analytics"],
     "education"  : "B.S. Applied Mathematics & Statistics + Economics — Stony Brook University",
 }
