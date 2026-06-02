@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-I'm a Data Scientist with **5+ years of experience** at the intersection of data engineering, analytics, and business strategy. Currently at **Estée Lauder Companies**, I build models that directly move the needle — from reducing acquisition risk to growing product sales.
+I'm a Data Scientist with **5+ years of experience** at the intersection of data engineering, analytics, and business strategy. Currently at **Estée Lauder Companies**, I build solutions that directly move the needle — from reducing acquisition risk to growing product sales.
 
 I hold a B.S. in **Applied Mathematics & Statistics + Economics** from Stony Brook University, and I'm passionate about building data pipelines, predictive models, and analytical tools that drive real outcomes.
 
