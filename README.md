@@ -2,7 +2,7 @@
 
 # Hi there, I'm Lovedeep Singh 👋
 
-### Data Scientist · Analyst · Problem Solver
+### Aspiring Data Scientist · Analyst · Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovedeepsingh3196)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parg0nx@gmail.com)
@@ -17,7 +17,7 @@
 
 ## 🧠 About Me
 
-I'm a Data Scientist with **5+ years of experience** at the intersection of data engineering, analytics, and business strategy. Currently at **Estée Lauder Companies**, I build solutions that directly move the needle — from reducing acquisition risk to growing product sales.
+I'm a Aspiring Data Scientist with **5+ years of experience** at the intersection of data analytics, domian knowledge and business strategy. Currently at **Estée Lauder Companies**, I build solutions that directly move the needle — from reducing acquisition risk to growing product sales.
 
 I hold a B.S. in **Applied Mathematics & Statistics + Economics** from Stony Brook University, and I'm passionate about building data pipelines, predictive models, and analytical tools that drive real outcomes.
 
@@ -27,9 +27,9 @@ I hold a B.S. in **Applied Mathematics & Statistics + Economics** from Stony Bro
 
 ```python
 lovedeep = {
-    "role"       : "Data Scientist",
+    "role"       : "Scientist",
     "company"    : "Estée Lauder Companies",
-    "focus"      : ["Risk Modeling", "Market Research", "Data Integration", "ETL Pipelines"],
+    "focus"      : [ "Data Integration", "Business impact", "Business strategy", "ETL Pipelines"],
     "languages"  : ["Python", "SQL"],
     "tools"      : ["Pandas", "NumPy", "JupyterLab", "Salesforce", "Google Analytics"],
     "education"  : "B.S. Applied Mathematics & Statistics + Economics — Stony Brook University",
