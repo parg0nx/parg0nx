@@ -27,7 +27,7 @@ I hold a B.S. in **Applied Mathematics & Statistics + Economics** from Stony Bro
 
 ```python
 lovedeep = {
-    "role"       : "Scientist",
+    "role"       : "Data Scientist",
     "company"    : "Estée Lauder Companies",
     "focus"      : [ "Data Integration", "Business impact", "Business strategy", "ETL Pipelines"],
     "languages"  : ["Python", "SQL"],
